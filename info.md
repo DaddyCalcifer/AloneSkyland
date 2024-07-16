@@ -1,9 +1,3 @@
- <!DOCTYPE html>
-            <html>
-            <head>
-                <meta charset='UTF-8'>
-            </head>
-            <body>
 <h1 id="aloneskyland">AloneSkyland</h1>
 <h1 id="-v0-0-6">Обновление v0.0.6</h1>
 <h2 id="-">Новые возможности</h2>
